@@ -14,10 +14,10 @@ I'm an **Applied Mathematics & Computer Science** student at UC San Diego, passi
 ### 🛠️ Tech Stack
 
 **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 **ML / AI**
@@ -37,7 +37,6 @@ I'm an **Applied Mathematics & Computer Science** student at UC San Diego, passi
 |---|---|---|
 | [custom-shell](https://github.com/ad-fix/custom-shell) | A Unix-like shell built from scratch with process management, piping, and I/O redirection | C |
 | [enigma-machine](https://github.com/ad-fix/enigma-machine) | A software simulation of the WWII Enigma cipher machine | C |
-| [image-classifier](https://github.com/ad-fix/image-classifier) | CNN image classifier trained on CIFAR-10 using PyTorch | Python |
 
 ---
 
@@ -48,4 +47,4 @@ I'm an **Applied Mathematics & Computer Science** student at UC San Diego, passi
 
 ### 📫 Reach Me
 - 📧 adn7296@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/adrian-nazzal)
+- 💼 [LinkedIn](www.linkedin.com/in/adrian-nazzal-992992372)
